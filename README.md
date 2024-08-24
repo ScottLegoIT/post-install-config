@@ -58,7 +58,9 @@ It is now time to create Agents. Agents are the employees of the helpdesk that a
 After creating some agents we will create users. Users are customers that create tickets when they are having issues. A user is identified with their E-mail address. To create a user follow this path Agent Panel->Users->User Directory->Add new. 
 </p>
 <br />
-<img src="https://i.imgur.com/xOprA9f.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="![image](https://github.com/user-attachments/assets/8fff354c-3b9a-432f-994c-05d36ddcbddc)
+" "/>
 </p>
 <p>
 SLAs Plans provide a length of time in which the help desk is expected to take in order to solve a specific ticket. SLA Plans are created by going to Admin Panel->Manage->SLA Plans. Each SLA has a schedule and within that schedule there is a grace period. In this example SEV-A has a 24/7 and a one hour grace period. 
